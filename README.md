@@ -1,2 +1,7 @@
 # image_effect-hover
-Aquí les dejo los archivos HTML y CSS con el que pueden comparar.
+Hola amigos, Por aquí les dejo los archivos HTML y CSS, espero que les den un buen uso y los invito a que le den like al video, 
+lo compartan, activen la campanita de notificaciones y comenten si9 tienen algun problema o alguna sugerencia que yo estaré al pendiente.
+
+Sin más que agregar me despido y que la pasen bien :)
+
+Link del video:
